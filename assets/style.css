@@ -1,0 +1,37 @@
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.55;
+  color: #1a1a1a;
+  background: #fff;
+  max-width: 36rem;
+  margin: 3rem auto;
+  padding: 0 1.25rem;
+}
+
+a {
+  color: #0b3d91;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+}
+
+h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 1.75rem 0 0.4rem;
+}
+
+.lang {
+  margin: 0 0 2rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin: 0.35rem 0;
+}
