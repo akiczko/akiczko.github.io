@@ -13,6 +13,7 @@ permalink: /pl/prezentacje/
 
 - [Parcie hydrostatyczne na powierzchnie płaskie](/presentations/Wyklady/Wykład_Plaskie.pdf) (PDF)
 - [Parcie hydrostatyczne na powierzchnie zakrzywione](/presentations/Wyklady/Parcie_zakrzywione_wyklad.pdf) (PDF)
+- [Przepływ w przewodach](/presentations/Wyklady/przewody.pdf) (PDF)
 
 ## Ćwiczenia
 
